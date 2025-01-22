@@ -1,0 +1,12 @@
+{
+    "level": null,
+    "message": "Failed to connect to DB",
+    "resourceId": null,
+    "startTime": null,
+    "endTime": null,
+    "traceId": null,
+    "commit": null,
+    "metadata": {
+        "parentResourceId": null
+    }
+}
