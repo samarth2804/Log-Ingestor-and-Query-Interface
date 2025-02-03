@@ -73,7 +73,7 @@ This project uses Apache Kafka. Follow these steps to start the Kafka Zookeeper 
 This project is a Spring Boot Application. Follow these steps to setup and application repository. 
    - Open a terminal session in a directory of your choice, run the following to clone the repository:
      ```bash
-        git clone https://github.com/av1paul/LogIngestor.git
+        git clone https://github.com/samarth2804/Log-Ingestor-and-Query-Interface
      ```
 ### Import Project into IntelliJ IDEA
 
