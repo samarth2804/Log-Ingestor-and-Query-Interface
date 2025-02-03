@@ -2,11 +2,8 @@
 
 A Log Ingestor System that can efficiently handle vast volumes of log data, and a simple interface for querying this data using full-text search or specific field filters.
 
-[Video Link](https://drive.google.com/file/d/1SaGDCcsQgFpidHuv34T0AHOilBJ6WQNB/view?usp=drive_link)
-
 ### Architecture 
 ![](/images/Archiecture.png)
-
 
 ## Features
 ### Log Ingestor System
@@ -109,7 +106,7 @@ This project is a Spring Boot Application. Follow these steps to setup and appli
      spring.kafka.consumer.properties.spring.json.trusted.packages=com.sam.pojo
   ```
 ### Run the Application
-- Open the `LogIngestorApplication` class located in `src/main/java/com/avi`.
+- Open the `LogIngestorApplication` class located in `src/main/java/com/sam`.
 - Right-click on the file and select `Run 'Application'`.
 - Alternatively, you can run the application from the command line (make sure in the project directory):
     ```bash
